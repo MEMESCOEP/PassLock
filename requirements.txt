@@ -4,3 +4,5 @@ pywin32
 keyboard
 pynput
 pywinauto
+pyinstaller
+pywinauto
