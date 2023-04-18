@@ -1,2 +1,2 @@
 @echo off
-pyinstaller --onefile .\ComputerPasswordLocker.py --icon LockLogo.ico --name PassLock
+pyinstaller --onefile .\PassLock.py --icon LockLogo.ico --name PassLock
