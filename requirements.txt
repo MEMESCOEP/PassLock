@@ -1,0 +1,7 @@
+cryptography
+maskpass
+pywin32
+keyboard
+shutil
+pynput
+pywinauto
