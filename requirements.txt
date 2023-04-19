@@ -6,3 +6,4 @@ pynput
 pywinauto
 pyinstaller
 pywinauto
+windows-curses
